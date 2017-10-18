@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2017-06-05T12:26:36Z
+Clone-During-Instance-Class-Loading: false
+Archiver-Version: Plexus Archiver
+Built-By: mgilman
+Nar-Version: 1.3.0
+Build-Tag: nifi-1.3.0-RC1
+Nar-Id: nifi-media-nar
+Nar-Group: org.apache.nifi
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_60
+

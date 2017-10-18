@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups>
+        <group identifier="eca0b749-015e-1000-ffff-ffffcf1dd88e" name="dc=redmine,dc=visionreality,dc=com">
+            <user identifier="eca35581-015e-1000-ffff-ffff8f9dbafc"/>
+            <user identifier="eca30e76-015e-1000-0000-000051d765f2"/>
+        </group>
+        <group identifier="f59fbc8d-015e-1000-ffff-ffffa4c7a06c" name="dc=reality,dc=visionreality,dc=com">
+            <user identifier="f5a03389-015e-1000-0000-00000e5208ee"/>
+            <user identifier="f59ff646-015e-1000-ffff-ffff8c053ef3"/>
+        </group>
+    </groups>
+    <users>
+        <user identifier="6743d555-1f60-343a-9038-0be6fdcbf33b" identity="CN=admin, OU=nifi"/>
+        <user identifier="6f63f343-5d10-3153-b99a-2ec42f23b0c6" identity="CN=node-1, OU=NIFI"/>
+        <user identifier="5bb41c7c-d546-3c94-8f35-574a8a39b1c2" identity="CN=node-3, OU=NIFI"/>
+        <user identifier="02f804e5-9a18-3500-a907-ccc129ba21dd" identity="CN=node-2, OU=NIFI"/>
+        <user identifier="eca30e76-015e-1000-0000-000051d765f2" identity="vkumar"/>
+        <user identifier="eca35581-015e-1000-ffff-ffff8f9dbafc" identity="spramod"/>
+        <user identifier="f59ff646-015e-1000-ffff-ffff8c053ef3" identity="agowda"/>
+        <user identifier="f5a03389-015e-1000-0000-00000e5208ee" identity="rrocky"/>
+    </users>
+</tenants>

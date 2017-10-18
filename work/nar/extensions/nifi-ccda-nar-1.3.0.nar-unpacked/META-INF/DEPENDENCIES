@@ -1,0 +1,81 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-ccda-nar
+
+
+From: 'an unknown organization'
+  - SourceForge LPG Java Runtime (http://www.eclipse.org) lpg.runtime:java:jar:2.0.17-v201004271640
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/org/documents/epl-v10.html)
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (http://www.bouncycastle.org/java.html) org.bouncycastle:bcpkix-jdk15on:jar:1.55
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk15on:jar:1.55
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - org.eclipse.emf.common_2.8.0.v20120606-0717.jar (http://www.eclipse.org/projects/project.php?id=birt) org.eclipse.birt.runtime:org.eclipse.emf.common:jar:2.8.0.v20120606-0717
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/org/documents/epl-v10.html)
+  - org.eclipse.emf.ecore_2.8.0.v20120606-0717.jar (http://www.eclipse.org/projects/project.php?id=birt) org.eclipse.birt.runtime:org.eclipse.emf.ecore:jar:2.8.0.v20120606-0717
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/org/documents/epl-v10.html)
+  - org.eclipse.emf.ecore.xmi_2.8.0.v20120606-0717.jar (http://www.eclipse.org/projects/project.php?id=birt) org.eclipse.birt.runtime:org.eclipse.emf.ecore.xmi:jar:2.8.0.v20120606-0717
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/org/documents/epl-v10.html)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-ccda-processors (http://nifi.apache.org/nifi-nar-bundles/nifi-ccda-bundle/nifi-ccda-processors) org.apache.nifi:nifi-ccda-processors:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (http://nifi.apache.org/nifi-nar-bundles/nifi-extension-utils/nifi-processor-utils) org.apache.nifi:nifi-processor-utils:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (http://nifi.apache.org/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-core-asl:jar:1.9.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Data Mapper for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Open eHealth Foundation' (http://www.openehealth.org/)
+  - Eclipse OCL (http://cdatools.org/ipf-eclipse-ocl/) org.openehealth.ipf.eclipse.ocl:ipf-eclipse-ocl:jar:3.1.0.v20110913-1213
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - Eclipse OCL ECore (http://cdatools.org/ipf-eclipse-ocl-ecore/) org.openehealth.ipf.eclipse.ocl:ipf-eclipse-ocl-ecore:jar:3.1.1.v20110823-1646
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT EMF Runtime (http://cdatools.org/ipf-oht-mdht-emf-runtime/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-emf-runtime:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT CDA (http://cdatools.org/ipf-oht-mdht-uml-cda/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT CDA CCD (http://cdatools.org/ipf-oht-mdht-uml-cda-ccd/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-ccd:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT CDA CDT (http://cdatools.org/ipf-oht-mdht-uml-cda-cdt/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-cdt:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT CDA Consol (http://cdatools.org/ipf-oht-mdht-uml-cda-consol/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-consol:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT CDA HITSP (http://cdatools.org/ipf-oht-mdht-uml-cda-hitsp/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-hitsp:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT CDA IHE (http://cdatools.org/ipf-oht-mdht-uml-cda-ihe/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-ihe:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT HL7 DATATYPES (http://cdatools.org/ipf-oht-mdht-uml-hl7-datatypes/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-hl7-datatypes:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT HL7 RIM (http://cdatools.org/ipf-oht-mdht-uml-hl7-rim/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-hl7-rim:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - OpenHealthTools(OHT) MDHT HL7 Vocabulary (http://cdatools.org/ipf-oht-mdht-uml-hl7-vocab/) org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-hl7-vocab:jar:1.2.0.201212201425
+    License: Eclipse Public License v1.0  (http://www.eclipse.org/legal/epl-v10.html)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons JEXL (http://commons.apache.org/jexl/) org.apache.commons:commons-jexl3:jar:3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.5
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

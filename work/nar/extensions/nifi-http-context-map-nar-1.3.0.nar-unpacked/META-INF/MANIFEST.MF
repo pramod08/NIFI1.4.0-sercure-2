@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2017-06-05T12:22:54Z
+Archiver-Version: Plexus Archiver
+Nar-Dependency-Group: org.apache.nifi
+Built-By: mgilman
+Nar-Id: nifi-http-context-map-nar
+Clone-During-Instance-Class-Loading: false
+Nar-Dependency-Version: 1.3.0
+Nar-Version: 1.3.0
+Build-Tag: nifi-1.3.0-RC1
+Nar-Group: org.apache.nifi
+Nar-Dependency-Id: nifi-standard-services-api-nar
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_60
+
